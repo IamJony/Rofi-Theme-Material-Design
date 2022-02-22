@@ -28,3 +28,7 @@ a nice theme for rofi in the style of material desing
 ![select theme](/select.png)
 
 ![select theme rofi](/rofi-selector.png)
+
+
+## Run:
+`rofi -show drun`
