@@ -27,4 +27,4 @@ a nice theme for rofi in the style of material desing
 
 ![select theme](/select.png)
 
-![select theme](/rofi-theme-selector.png)
+![select theme rofi](/rofi-selector.png)
