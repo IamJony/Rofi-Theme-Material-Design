@@ -3,7 +3,8 @@ a nice theme for rofi in the style of material desing
 
 
 ## Dependency:
-* **Compositor for the transparency example: picon, compton etc.**
+* compositor
+* rofi
 
 ## Optional dependencies:
 * Icons: tela-blue-dark
